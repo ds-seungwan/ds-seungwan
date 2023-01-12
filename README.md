@@ -1,6 +1,8 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seungwan&fontSize=90" /> </p>
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=python&logoColor=white"/>
+
 <!--
 **ds-seungwan/ds-seungwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
